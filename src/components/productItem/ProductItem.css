@@ -1,0 +1,11 @@
+.product-item img {
+    max-width: 200px;
+    max-height: 200px;
+}
+.buton {
+    outline: darkblue;
+}
+.buton :hover {
+    background-color: black;
+    color: white;
+}

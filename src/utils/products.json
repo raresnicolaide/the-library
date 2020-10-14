@@ -1,0 +1,283 @@
+{
+    "shoes": {
+        "items": [
+            {
+                "id": 1,
+                "rating":2,
+                "name": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+                "price": 135,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/gKIRssw.jpg",
+                "isbn": "0451528956",
+                "date": "1886",
+                "authorPicture": "https://i.imgur.com/Via2pzU.jpg",
+                "authorDescription": "Robert Louis Balfour Stevenson was a Scottish novelist, poet, and travel writer, and a leading representative of English literature. He was greatly admired by many authors, including Jorge Luis Borges, Ernest Hemingway, Rudyard Kipling and Vladimir Nabokov. Most modernist writers dismissed him, however, because he was popular and did not write within their narrow definition of literature. It is only recently that critics have begun to look beyond Stevenson's popularity and allow him a place in the Western canon.",
+                "author": "Robert Louis Stevenson",
+                "description": "Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the famous Scottish author Robert Louis Stevenson that was first published in 1886. The work is commonly known today as The Strange Case of Dr Jekyll and Mr Hyde, Dr Jekyll and Mr Hyde, or simply Jekyll & Hyde. It is about a London lawyer named John Gabriel Utterson who investigates strange occurrences between his old friend, Dr Henry Jekyll, and the evil Edward Hyde."
+            },
+            {
+                "id": 2,
+                "rating":4,
+                "name": "And Then There Were None",
+                "price": 55,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/xY2K4n3.jpg",
+                "isbn": "0312330871",
+                "date": "1939",
+                "authorPicture": "https://i.imgur.com/0Qodnwi.jpg",
+                "authorDescription": "Agatha Christie is the best-selling author of all time. She wrote 66 crime novels and story collections, fourteen plays, and six novels under a pseudonym in Romance. Her books have sold over a billion copies in the English language and a billion in translation. According to Index Translationum, she remains the most-translated individual author, having been translated into at least 103 languages. She is the creator of two of the most enduring figures in crime literature-Hercule Poirot and Miss Jane Marple-and author of The Mousetrap, the longest-running play in the history of modern theatre.",
+                "author": "Agatha Christie",
+                "description": "First, there were ten—a curious assortment of strangers summoned as weekend guests to a little private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they're unwilling to reveal—and a secret that will seal their fate. For each has been marked for murder. "
+            },
+            {
+                "id": 17,
+                "rating":3,
+                "name": "Death on the Nile",
+                "price": 43,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/tJ61hBK.jpg",
+                "isbn": "0553119222",
+                "date": "1937",
+                "authorPicture": "https://i.imgur.com/0Qodnwi.jpg",
+                "authorDescription": "Agatha Christie is the best-selling author of all time. She wrote 66 crime novels and story collections, fourteen plays, and six novels under a pseudonym in Romance. Her books have sold over a billion copies in the English language and a billion in translation. According to Index Translationum, she remains the most-translated individual author, having been translated into at least 103 languages. She is the creator of two of the most enduring figures in crime literature-Hercule Poirot and Miss Jane Marple-and author of The Mousetrap, the longest-running play in the history of modern theatre.",
+                "author": "Agatha Christie",
+                "description": "The tranquillity of a cruise along the Nile is shattered by the discovery that Linnet Ridgeway has been shot through the head. She was young, stylish and beautiful, a girl who had everything - until she lost her life. Hercule Poirot recalls an earlier outburst by a fellow passenger: 'I'd like to put my dear little pistol against her head and just press the trigger.' Yet in this exotic setting, nothing is ever quite what it seems..."
+            },
+            {
+                "id": 3,
+                "rating":5,
+                "name": "The Girl with the Dragon Tattoo",
+                "price": 185,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/TdqjmTe.jpg",
+                "isbn": "0307269752",
+                "date": "2005",
+                "authorPicture": "https://i.imgur.com/tYJspnE.jpg",
+                "authorDescription": "As a journalist and editor of the magazine Expo , Larsson was active in documenting and exposing Swedish extreme right and racist organisations. When he died at the age of 50, Larsson left three unpublished thrillers and unfinished manuscripts for more. The first three books ( The Girl With the Dragon Tattoo , The Girl Who Played With Fire and The Girl Who Kicked the Hornets' Nest ) have since been printed as the Millenium series. These books are all bestsellers in Sweden and in several other countries, including the United States and Canada.",
+                "author": "Stieg Larsson",
+                "description": "Harriet Vanger, a scion of one of Sweden’s wealthiest families disappeared over forty years ago. All these years later, her aged uncle continues to seek the truth. He hires Mikael Blomkvist, a crusading journalist recently trapped by a libel conviction, to investigate. He is aided by the pierced and tattooed punk prodigy Lisbeth Salander. Together they tap into a vein of unfathomable iniquity and astonishing corruption."
+            }
+        ],
+        "image": "https://i.imgur.com/IyHbOmL.jpg",
+        "name": "Crime, mystery",
+        "description": "Very few of us are what we seem."
+    },
+    "sweaters": {
+        "items": [
+            {
+                "id": 4,
+                "rating":5,
+                "name": "Of Mice and Men",
+                "price": 95,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/tZ71Alp.jpg",
+                "isbn": "0142000671",
+                "date": "1937",
+                "authorPicture": "https://i.imgur.com/UJwgpk9.jpg",
+                "authorDescription": "John Steinbeck III was an American writer. He wrote the Pulitzer Prize-winning novel The Grapes of Wrath, published in 1939 and the novella Of Mice and Men, published in 1937. In all, he wrote twenty-five books, including sixteen novels, six non-fiction books and several collections of short stories. In 1962 Steinbeck received the Nobel Prize for Literature. Steinbeck grew up in the Salinas Valley region of California, a culturally diverse place of rich migratory and immigrant history. This upbringing imparted a regionalistic flavor to his writing, giving many of his works a distinct sense of place.",
+                "author": "John Steinbeck",
+                "description": "Drifters in search of work, George and his simple-minded friend Lennie have nothing in the world except each other and a dream -- a dream that one day they will have some land of their own. Eventually they find work on a ranch in California’s Salinas Valley, but their hopes are doomed as Lennie, struggling against extreme cruelty, misunderstanding and feelings of jealousy, becomes a victim of his own strength."
+            },
+            {
+                "id": 5,
+                "rating":3,
+                "name": "The Catcher in the Rye",
+                "price": 105,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/xPMoVRf.jpg",
+                "isbn": "0316769177",
+                "date": "1951",
+                "authorPicture": "https://i.imgur.com/kpkfEBN.jpg",
+                "authorDescription": "Jerome David Salinger was an American author, best known for his 1951 novel The Catcher in the Rye, as well as his reclusive nature. His last original published work was in 1965; he gave his last interview in 1980. Raised in Manhattan, Salinger began writing short stories while in secondary school, and published several stories in the early 1940s before serving in World War II. In 1948 he published the critically acclaimed story \"A Perfect Day for Bananafish\" in The New Yorker magazine, which became home to much of his subsequent work. In 1951 Salinger released his novel The Catcher in the Rye, an immediate popular success.",
+                "author": "J.D. Salinger",
+                "description": "The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. The boy himself is at once too simple and too complex for us to make any final comment about him or his story. Perhaps the safest thing we can say about Holden is that he was born in the world not just strongly attracted to beauty but, almost, hopelessly impaled on it."
+            },
+            {
+                "id": 6,
+                "rating":4,
+                "name": "The Picture of Dorian Gray",
+                "price": 165,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/idBpVgE.jpg",
+                "isbn": "0316769177",
+                "date": "1890",
+                "authorPicture": "https://i.imgur.com/aNQyikq.jpg",
+                "authorDescription": "Oscar Fingal O'Flahertie Wills Wilde was an Irish playwright, poet, and author of numerous short stories, and one novel. Known for his biting wit, and a plentitude of aphorisms, he became one of the most successful playwrights of the late Victorian era in London, and one of the greatest celebrities of his day. Several of his plays continue to be widely performed, especially The Importance of Being Earnest.",
+                "author": "Oscar Wilde",
+                "description": "Written in his distinctively dazzling manner, Oscar Wilde’s story of a fashionable young man who sells his soul for eternal youth and beauty is the author’s most popular work. The tale of Dorian Gray’s moral disintegration caused a scandal when it appeared in 1890, but though Wilde was attacked for the novel’s corrupting inﬂuence, he responded that there is, in fact, “a terrible moral in Dorian Gray\"."
+            },
+            {
+                "id": 7,
+                "rating":5,
+                "name": "Wind, Sand and Stars",
+                "price": 160,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/pa7W5nX.jpg   ",
+                "isbn": "0156027496",
+                "date": "1939",
+                "authorPicture": "https://i.imgur.com/vLctTs2.jpg",
+                "authorDescription": "Antoine de Saint-Exupéry was born in Lyons on June 29, 1900. He flew for the first time at the age of twelve, at the Ambérieu airfield, and it was then that he became determined to be a pilot. He kept that ambition even after moving to a school in Switzerland and while spending summer vacations at the family's château at Saint-Maurice-de-Rémens, in eastern France. Later, in Paris, he failed the entrance exams for the French naval academy and, instead, enrolled at the prestigious art school l'Ecole des Beaux-Arts.",
+                "author": "Antoine de Saint-Exupéry",
+                "description": "Recipient of the Grand Prix of the Académie Française, Wind, Sand and Stars captures the grandeur, danger, and isolation of flight. Its exciting account of air adventure, combined with lyrical prose and the spirit of a philosopher, makes it one of the most popular works ever written about flying. Translated by Lewis Galantière."
+            }
+        ],
+        "image": "https://i.imgur.com/R8DwDCb.jpg",
+        "name": "Classics",
+        "description": "The only beauty that never fades."
+    },
+    "pants": {
+        "items": [
+            {
+                "id": 8,
+                "rating":5,
+                "name": "The Lessons of History",
+                "price": 85,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/ixMnKBY.jpg",
+                "isbn": "9781567310245",
+                "date": "1968",
+                "authorPicture": "https://i.imgur.com/VYmU9Bp.png",
+                "authorDescription": "William James Durant was a prolific American writer, historian, and philosopher. He is best known for the 11-volume The Story of Civilization, written in collaboration with his wife Ariel and published between 1935 and 1975. He was earlier noted for his book, The Story of Philosophy, written in 1926, which was considered \"a groundbreaking work that helped to popularize philosophy.\". They were awarded the Pulitzer Prize for literature in 1967 and the Presidential Medal of Freedom in 1977.",
+                "author": "Will Durant",
+                "description": "In this illuminating and thoughtful book, Will and Ariel Durant have succeeded in distilling for the reader the accumulated store of knowledge and experience from their four decades of work on the ten monumental volumes of \"The Story of Civilization.\" The result is a survey of human history, full of dazzling insights into the nature of human experience, the evolution of civilization, the culture of man. With the completion of their life's work they look back and ask what history has to say about the nature, the conduct and the prospects of man."
+            },
+            {
+                "id": 9,
+                "rating":2,
+                "name": "Europe: A History",
+                "price": 40,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/7x3SttD.png",
+                "isbn": "9780060974688",
+                "date": "1996",
+                "authorPicture": "https://i.imgur.com/uBTsdIx.png",
+                "authorDescription": "Professor Ivor Norman Richard Davies FBA, FRHistS is a leading English historian of Welsh descent, noted for his publications on the history of Europe, Poland, and the United Kingdom. From 1971, Davies taught Polish history at the School of Slavonic and East European Studies (SSEES) of the University of London, where he was professor from 1985 to 1996.",
+                "author": "Norman Davies",
+                "description": "Here is a masterpiece of historical narrative that stretches from the Ice Age to the Atomic Age, as it tells the story of Europe, East and West. Norman Davies captures it all--the rise and fall of Rome, the sweeping invasions of Alaric and Atilla, the Norman Conquests, the Papal struggles for power, the Renaissance and the Reformation, the French Revolution and the Napoleonic Wars, Europe's rise to become the powerhouse of the world, and its eclipse in our own century, following two devastating World Wars."
+            }
+        ],
+        "image": "https://i.imgur.com/BtWwrbg.jpg",
+        "name": "History",
+        "description": "Just a fable agreed upon."
+    },
+    "jackets": {
+        "items": [
+            {
+                "id": 10,
+                "rating":5,
+                "name": "The Black Swan: The Impact of the Highly Improbable",
+                "price": 210,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/dwp0Y1e.png",
+                "isbn": "1400063515",
+                "date": "2007",
+                "authorPicture": "https://i.imgur.com/F3n6r0D.png",
+                "authorDescription": "Nassim Nicholas Taleb spent 21 years as a risk taker (quantitative trader) before becoming a flaneur and researcher in philosophical, mathematical and (mostly) practical problems with probability.Taleb is the author of a multivolume essay, the Incerto (The Black Swan, Fooled by Randomness, Antifragile, and Skin in the Game) an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision making when we don’t understand the world, expressed in the form of a personal essay with autobiographical sections, stories, parables, and philosophical, historical, and scientic discussions.",
+                "author": " Nassim Nicholas Taleb",
+                "description": "A black swan is a highly improbable event with three principal characteristics: It is unpredictable; it carries a massive impact; and, after the fact, we concoct an explanation that makes it appear less random, and more predictable, than it was. The astonishing success of Google was a black swan; so was 9/11. For Nassim Nicholas Taleb, black swans underlie almost everything about our world, from the rise of religions to events in our own personal lives."
+            },
+            {
+                "id": 11,
+                "rating":4,
+                "name": "Capital in the Twenty-First Century",
+                "price": 250,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/Wm6wyO4.png",
+                "isbn": "067443000X",
+                "date": "2013",
+                "authorPicture": "https://i.imgur.com/WczgjtZ.png",
+                "authorDescription": "Thomas Piketty (French: [tɔma pikɛti]; born May 7, 1971) is a French economist who works on wealth and income inequality. He is the director of studies at the École des hautes études en sciences sociales (EHESS) and professor at the Paris School of Economics. He is the author of the best selling book Capital in the Twenty-First Century (2013), which emphasizes the themes of his work on wealth concentrations and distribution over the past 250 years. The book argues that the rate of capital return in developed countries is persistently greater than the rate of economic growth, and that this will cause wealth inequality to increase in the future. ",
+                "author": "Thomas Piketty",
+                "description": "What are the grand dynamics that drive the accumulation and distribution of capital? Questions about the long-term evolution of inequality, the concentration of wealth, and the prospects for economic growth lie at the heart of political economy. But satisfactory answers have been hard to find for lack of adequate data and clear guiding theories. In Capital in the Twenty-First Century, Thomas Piketty analyzes a unique collection of data from twenty countries, ranging as far back as the eighteenth century, to uncover key economic and social patterns."
+            }
+        ],
+        "image": "https://i.imgur.com/pUisEIu.jpg",
+        "name": "Economics",
+        "description": "Frugality includes all the other virtues."
+    },
+    "tshirts": {
+        "items": [
+            {
+                "id": 12,
+                "rating":5,
+                "name": "The Republic",
+                "price": 90,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/Ee9iy8d.png",
+                "isbn": "0140449140",
+                "date": "380B.C.",
+                "authorPicture": "https://i.imgur.com/a5AyrdT.png",
+                "authorDescription": "(Greek: Πλάτων) (Arabic: أفلاطون) (Alternate Spelling: Platon, Platón, Platone) Plato is a Classical Greek philosopher, mathematician, student of Socrates, writer of philosophical dialogues, and founder of the Academy in Athens, the first institution of higher learning in the Western world. Along with his mentor, Socrates, and his student, Aristotle, Plato helped to lay the foundations of Western philosophy and science. Plato is one of the most important Western philosophers, exerting influence on virtually every figure in philosophy after him.",
+                "author": "Plato",
+                "description": "Presented in the form of a dialogue between Socrates and three different interlocutors, this classic text is an enquiry into the notion of a perfect community and the ideal individual within it. During the conversation, other questions are raised: what is goodness?; what is reality?; and what is knowledge? The Republic also addresses the purpose of education and the role of both women and men as guardians of the people. With remarkable lucidity and deft use of allegory, Plato arrives at a depiction of a state bound by harmony and ruled by philosopher kings."
+            },
+            {
+                "id": 13,
+                "rating":4,
+                "name": "The Nicomachean Ethics",
+                "price": 110,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/JApxavn.png",
+                "isbn": "0140449493",
+                "date": "340 B.C.",
+                "authorPicture": "Roșu",
+                "authorDescription": "Aristotle (384–322 B.C.) numbers among the greatest philosophers of all time. Judged solely in terms of his philosophical influence, only Plato is his peer: Aristotle's works shaped centuries of philosophy from Late Antiquity through the Renaissance, and even today continue to be studied with keen, non-antiquarian interest. A prodigious researcher and writer, Aristotle left a great body of work, perhaps numbering as many as two-hundred treatises, from which approximately thirty-one survive. ",
+                "author": "Aristotle",
+                "description": "\"One swallow does not make a summer; neither does one day. Similarly neither can one day, or a brief space of time, make a man blessed and happy\". In the Nicomachean Ethics, Aristotle sets out to examine the nature of happiness. He argues that happiness consists in ‘activity of the soul in accordance with virtue’, for example with moral virtues, such as courage, generosity and justice, and intellectual virtues, such as knowledge, wisdom and insight."
+            },
+            {
+                "id": 14,
+                "rating":5,
+                "name": "Being And Nothingness",
+                "price": 1909,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/v8vrkge.png",
+                "isbn": "L",
+                "date": "1886",
+                "authorPicture": "https://i.imgur.com/eUXCvFS.png",
+                "authorDescription": "Jean-Paul Charles Aymard Sartre, normally known simply as Jean-Paul Sartre, was a French existentialist philosopher and pioneer, dramatist and screenwriter, novelist and critic. He was a leading figure in 20th century French philosophy. He declined the award of the 1964 Nobel Prize in Literature \"for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age.\".In the years around the time of his death, however, existentialism declined in French philosophy and was overtaken by structuralism, represented by Levi-Strauss.",
+                "author": "Jean-Paul Sartre",
+                "description": "Being & Nothingness is without doubt one of the most significant philosophical books of the 20th century. The central work by one of the century's most influential thinkers, it altered the course of western philosophy. Its revolutionary approach challenged all previous assumptions about the individual's relationship with the world. Known as 'the Bible of existentialism', its impact on culture & literature was immediate & was felt worldwide, from the absurdist drama of Samuel Beckett to the soul-searching cries of the Beat poets."
+            }
+        ],
+        "image": "https://i.imgur.com/PHDzqVU.jpg",
+        "name": "Philosophy",
+        "description": "The unexamined life is not worth living."
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 15,
+                "rating":2,
+                "name": "Nineteen Eighty-Four",
+                "price": 85,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/UNUD1s5.jpg",
+                "isbn": "1400063515",
+                "date": "1949",
+                "authorPicture": "https://i.imgur.com/q4XlMlv.png",
+                "authorDescription": "Eric Arthur Blair, better known by his pen name George Orwell, was an English author and journalist. His work is marked by keen intelligence and wit, a profound awareness of social injustice, an intense opposition to totalitarianism, a passion for clarity in language, and a belief in democratic socialism.In addition to his literary career Orwell served as a police officer with the Indian Imperial Police in Burma from 1922-1927 and fought with the Republicans in the Spanish Civil War from 1936-1937. Orwell was severely wounded when he was shot through his throat. ",
+                "author": "George Orwell",
+                "description": "Among the seminal texts of the 20th century, Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmarish vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life—the ubiquity of television, the distortion of the language—and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written."
+                
+            },
+            {
+                "id": 16,
+                "rating":3,
+                "name": "Harry Potter and the Chamber of Secrets",
+                "price": 60,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/nXfQyNC.jpg",
+                "isbn": "L",
+                "date": "1886",
+                "authorPicture": "https://i.imgur.com/3Vogsku.jpg",
+                "authorDescription": "Joanne Rowling  (born 31 July 1965), better known by her pen name J. K. Rowling, is a British writer and philanthropist. She is best known for writing the Harry Potter fantasy series, which has won multiple awards and sold more than 500 million copies, becoming the best-selling book series in history. The books are the basis of a popular film series, over which Rowling had overall approval on the scripts and was a producer on the final films. She also writes crime fiction under the pen name Robert Galbraith.",
+                "author": "J. K. Rowling",
+                "description": "Ever since Harry Potter had come home for the summer, the Dursleys had been so mean and hideous that all Harry wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he’s packing his bags, Harry receives a warning from a strange impish creature who says that if Harry returns to Hogwarts, disaster will strike." 
+            }
+        ],
+        "image": "https://i.imgur.com/qzkmMNA.jpg",
+        "name": "Fiction",
+        "description": "The lie through which we tell the truth."
+    }
+}

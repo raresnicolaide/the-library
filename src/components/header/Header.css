@@ -1,0 +1,35 @@
+header .logo {
+    
+    padding-top:10px;
+    padding-bottom:10px;
+    width: 200px;
+    height: auto;
+}
+
+.login {
+    
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 30px;
+    width: 100%;
+    height: 35px;
+    background-color: black;
+    color: white ;
+} 
+
+.logout:hover {
+    cursor: pointer;
+}
+
+.rica :hover {
+    
+    background-color: rgb(251, 251, 83);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.ic {
+    margin-top:20px;
+}

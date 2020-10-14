@@ -1,0 +1,39 @@
+body {
+  font-family: Roboto;
+  background-color: rgb(241, 241, 241);
+}
+
+.App {
+  text-align: center;
+}
+a {
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+a:hover {
+  color: white;
+
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
